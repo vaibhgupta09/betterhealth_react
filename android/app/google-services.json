@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "145999145895",
+    "firebase_url": "https://betterhealth-29851.firebaseio.com",
+    "project_id": "betterhealth-29851",
+    "storage_bucket": "betterhealth-29851.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145999145895:android:9f5ba3529344e3a4",
+        "android_client_info": {
+          "package_name": "com.betterhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145999145895-jurd72k4kiujlvg4acsm530jk6qdab4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.betterhealth",
+            "certificate_hash": "8e74b735276078e3ba66ac3328fd300a327b3896"
+          }
+        },
+        {
+          "client_id": "145999145895-d8dhkg17rhb0b1tomriv3o53kfig6fnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcr0h665mk4-rMUpd-e8xRBEwsy13_a1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145999145895-9lnoq3qmej790pb0garf53gda3n03ab9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "145999145895-0eqehb9en4utk3dsb19cvvr6ss5601vd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.BetterHealth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
